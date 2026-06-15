@@ -1,0 +1,1 @@
+# fix-spotify-flatpack-wayland-ugly-window
